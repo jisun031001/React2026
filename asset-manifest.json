@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React2026/static/css/main.fd255108.css",
+    "main.js": "/React2026/static/js/main.210b0e6d.js",
+    "static/media/banner.jpg": "/React2026/static/media/banner.50689f2c6bf1364ded77.jpg",
+    "index.html": "/React2026/index.html",
+    "main.fd255108.css.map": "/React2026/static/css/main.fd255108.css.map",
+    "main.210b0e6d.js.map": "/React2026/static/js/main.210b0e6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd255108.css",
+    "static/js/main.210b0e6d.js"
+  ]
+}
